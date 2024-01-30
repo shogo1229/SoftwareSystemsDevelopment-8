@@ -3,7 +3,9 @@ body {
     margin-top: 50px;
     font-family: 'Lato';
 }
-
+h1{
+    text-align: center;
+}
 .item {
     background-color: white;
     padding: 15px;
